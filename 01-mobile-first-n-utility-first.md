@@ -7,4 +7,4 @@
 [Utility-First Fundamentals](https://tailwindcss.com/docs/utility-first)
 - Utility-first is a CSS methodology where styling is built using many small, purpose-specific classes, rather than having styles defined in separate CSS files. This allows for greater flexibility and customization in user interface development. 
 
-- In this approach it is used utility classes to build custom designs without writing CSS
+- In this approach it is used utility classes to build custom designs without writing CSS  
