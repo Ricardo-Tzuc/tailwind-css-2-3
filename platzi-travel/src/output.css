@@ -1,6 +1,6 @@
-/*
-! tailwindcss v3.4.3 | MIT License | https://tailwindcss.com
-*/
+/* Initialize the HTML elements without styles, it resets the default ones.*/
+
+/* ! tailwindcss v3.4.3 | MIT License | https://tailwindcss.com*/
 
 /*
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
@@ -553,6 +553,10 @@ video {
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
+
+/* It allows to access to each Tailwind pre-builded styles considered as components*/
+
+/* It is the core of Tailwind style, that allows us access to classes like bg-red-500*/
 
 .h-64 {
   height: 16rem;

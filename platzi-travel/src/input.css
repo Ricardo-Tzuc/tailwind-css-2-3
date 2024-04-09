@@ -1,3 +1,6 @@
+/* Initialize the HTML elements without styles, it resets the default ones.*/
 @tailwind base;
+/* It allows to access to each Tailwind pre-builded styles considered as components*/
 @tailwind components;
+/* It is the core of Tailwind style, that allows us access to classes like bg-red-500*/
 @tailwind utilities;
